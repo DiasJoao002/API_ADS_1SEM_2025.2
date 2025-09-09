@@ -98,13 +98,21 @@
     </tr>
     <tr>
       <td>Wesley Henrique</td>
+<<<<<<< HEAD
       <td>Developer</td>
+=======
+      <td>Desenvolvedor</td>
+>>>>>>> 172df285ff7ee879f9b39ba232cf39b855cdbb37
       <td><a href=""><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
       <td><a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
     <tr>
       <td>Willian Umehara</td>
+<<<<<<< HEAD
       <td>Developer</td>
+=======
+      <td>Desenvolvedor</td>
+>>>>>>> 172df285ff7ee879f9b39ba232cf39b855cdbb37
       <td><a href=""><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
       <td><a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
